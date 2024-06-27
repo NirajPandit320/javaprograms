@@ -7,4 +7,5 @@ class Print{
 }
 // git add .
 // git commit -m "message"
+// git pull (if neccessary)
 // git push
