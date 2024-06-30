@@ -1,4 +1,4 @@
-public class Division {
+public class Divisionfloating{
     public static void main(String[] args) {
         double Div1=2;      // Declaring variables
         int Div2 =10;
